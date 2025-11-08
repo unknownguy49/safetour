@@ -13,6 +13,9 @@ export const metadata: Metadata = {
   description:
     "AI-powered tourist safety monitoring with blockchain digital IDs, geo-fencing, and real-time incident response",
   generator: "v0.app",
+  icons: {
+    icon: "/logo.png",
+  },
 };
 
 export default function RootLayout({
